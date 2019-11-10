@@ -6,17 +6,17 @@ PyAsteroids by Fer, 2019
 
 Simple implementation in PyGame of the classic arcade game Asteroids
 Game Commands:
-<ESC>   Exit Game
-<P>     Pause Game
-<R>     Restart Game
-<S>     Toggle Sound On/Off
-<+>     Increase Game Speed
-<->     Decrease Game Speed
-<SPACE> Fire
-<LEFT>  Turn spaceship counter clockwise
-<RIGHT> Turn spaceship clockwise
-<UP>    Accelerate spaceship
-<DOWN>  Decelerate spaceship
+ESC   Exit Game
+P     Pause Game
+R     Restart Game
+S     Toggle Sound On/Off
++     Increase Game Speed
+-     Decrease Game Speed
+SPACE Fire
+LEFT  Turn spaceship counter clockwise
+RIGHT Turn spaceship clockwise
+UP    Accelerate spaceship
+DOWN  Decelerate spaceship
 Image of spaceship thanks to Ahkâm (https://www.freeiconspng.com/img/17270)
 Image of asteroids thanks to someone who draw them...
 Sounds with courtesy of freesound.org
