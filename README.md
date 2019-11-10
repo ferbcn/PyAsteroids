@@ -10,8 +10,8 @@ ESC   Exit Game
 P     Pause Game
 R     Restart Game
 S     Toggle Sound On/Off
-+     Increase Game Speed
--     Decrease Game Speed
+"+"     Increase Game Speed
+"-"     Decrease Game Speed
 SPACE Fire
 LEFT  Turn spaceship counter clockwise
 RIGHT Turn spaceship clockwise
